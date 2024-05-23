@@ -42,3 +42,11 @@ Jenkin Job
 # EKS Cluster creation using Terraform script via Jenkins Pipeline
 
 ![alt text](image-2.png)
+
+# ArgoCD Output 
+
+![alt text](image-4.png)
+
+# Application Output
+
+![alt text](image-5.png)

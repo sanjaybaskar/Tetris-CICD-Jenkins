@@ -21,6 +21,12 @@ Tools used to deploy the application into the EKS cluster:
 
 # Refer the Jenkins file for pipeline script 
 
+# Terraform script for EKS cluster : https://github.com/sanjaybaskar/Tetris-CICD-Jenkins/tree/main/Eks-terraform
+
+# Manifest File Repo : https://github.com/sanjaybaskar/Tetris-CICD-Manifest-files.git
+
+# Tetris V2 application Repo : https://github.com/sanjaybaskar/Tetris-CICD-v2.git
+
 Some glimpses of the output:
 
 Jenkin Job

@@ -21,13 +21,13 @@ Tools used to deploy the application into the EKS cluster:
 
 Refer the Jenkins file for pipeline script 
 
-Terraform script for EKS cluster : https://github.com/sanjaybaskar/Tetris-CICD-Jenkins/tree/main/Eks-terraform
+**Terraform script for EKS cluster** https://github.com/sanjaybaskar/Tetris-CICD-Jenkins/tree/main/Eks-terraform
 
-Manifest File Repo : https://github.com/sanjaybaskar/Tetris-CICD-Manifest-files.git
+**Manifest File Repo :** https://github.com/sanjaybaskar/Tetris-CICD-Manifest-files.git
 
-Tetris V2 application Repo : https://github.com/sanjaybaskar/Tetris-CICD-v2.git
+**Tetris V2 application Repo :** https://github.com/sanjaybaskar/Tetris-CICD-v2.git
 
-Some glimpses of the output:
+**Some glimpses of the output:**
 
 Jenkin Job
 
@@ -35,18 +35,18 @@ Jenkin Job
 
 ![alt text](image.png)
 
-# Manifest file update Pipeline
+**Manifest file update Pipeline**
 
 ![alt text](image-1.png)
 
-# EKS Cluster creation using Terraform script via Jenkins Pipeline
+**EKS Cluster creation using Terraform script via Jenkins Pipeline**
 
 ![alt text](image-2.png)
 
-# ArgoCD Output 
+**ArgoCD Output**
 
 ![alt text](image-4.png)
 
-# Application Output
+**Application Output**
 
 ![alt text](image-5.png)

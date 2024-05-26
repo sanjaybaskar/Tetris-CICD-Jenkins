@@ -19,13 +19,13 @@ Tools used to deploy the application into the EKS cluster:
 
 🔄 **ArgoCD**: With ArgoCD, we embrace GitOps practices, automating the deployment of our applications to EKS based on Git repository changes, ensuring consistency and reliability.
 
-# Refer the Jenkins file for pipeline script 
+Refer the Jenkins file for pipeline script 
 
-# Terraform script for EKS cluster : https://github.com/sanjaybaskar/Tetris-CICD-Jenkins/tree/main/Eks-terraform
+Terraform script for EKS cluster : https://github.com/sanjaybaskar/Tetris-CICD-Jenkins/tree/main/Eks-terraform
 
-# Manifest File Repo : https://github.com/sanjaybaskar/Tetris-CICD-Manifest-files.git
+Manifest File Repo : https://github.com/sanjaybaskar/Tetris-CICD-Manifest-files.git
 
-# Tetris V2 application Repo : https://github.com/sanjaybaskar/Tetris-CICD-v2.git
+Tetris V2 application Repo : https://github.com/sanjaybaskar/Tetris-CICD-v2.git
 
 Some glimpses of the output:
 
